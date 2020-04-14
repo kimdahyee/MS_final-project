@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView_intro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="모바일 소프트웨어 02분반"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView_intro1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="컴퓨터학과 20170913 김다혜"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView_intro2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="모바일 소프트웨어 마지막 과제"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView_intro3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="개발자는 종강을 너무 원한다"
+        android:textSize="15sp" />
+</LinearLayout>
